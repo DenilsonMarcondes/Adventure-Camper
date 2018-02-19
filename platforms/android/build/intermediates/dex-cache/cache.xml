@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\Documents\Aplicativo\AdventureCamper\platforms\android\CordovaLib\build\intermediates\bundles\debug\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="afe8eb4906b94df000e2b3714c864ec42d4e4ea6">
+        <dex dex="C:\Users\ASUS\Documents\Aplicativo\AdventureCamper\platforms\android\build\intermediates\pre-dexed\debug\classes_320ce59ef82915382e0045706e7add77cb0fc496.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\Documents\Aplicativo\AdventureCamper\platforms\android\CordovaLib\build\intermediates\bundles\release\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="03ea17ffbc41fdabd0d6862a64ae5591eebeedc4">
+        <dex dex="C:\Users\ASUS\Documents\Aplicativo\AdventureCamper\platforms\android\build\intermediates\pre-dexed\release\classes_c15370d8c5859e16d51edd22e403d10e90834702.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\.android\build-cache\30a75f6306ffb79186dcd37fc312f91277955c32\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\ASUS\Documents\Aplicativo\AdventureCamper\platforms\MyApplication\app\build\intermediates\pre-dexed\debug\classes_caf98dc95ada47d18179e041694f06438e59c796.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\.android\build-cache\73dd92e1c28d625332a9d3222dcfc2d168e3552a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\ASUS\Documents\Aplicativo\AdventureCamper\platforms\MyApplication\app\build\intermediates\pre-dexed\debug\classes_23f7f712dfb88c8da88309b9a5b2e8b360a1f370.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\.android\build-cache\b257f7588e88123561c667482a33487d6bd58eb3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\ASUS\Documents\Aplicativo\AdventureCamper\platforms\MyApplication\app\build\intermediates\pre-dexed\debug\classes_a24dd6b9fa18ae5267b3a18b1db707dc585fe0c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\.android\build-cache\886b56843583b27d32fb5376ee257ce1046c25e7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\ASUS\Documents\Aplicativo\AdventureCamper\platforms\MyApplication\app\build\intermediates\pre-dexed\debug\classes_3a2fd17963ee7eb013b95d094da37ad2c1904a4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\.android\build-cache\54bbe57a7c85f36d74c40022ad1efec0cdea9120\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\ASUS\Documents\Aplicativo\AdventureCamper\platforms\MyApplication\app\build\intermediates\pre-dexed\debug\classes_181b11649b5cf9ed1b100281b717bd465ab78f43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\.android\build-cache\e65a8978c8170877ec40bad207c73886033972ca\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\ASUS\Documents\Aplicativo\AdventureCamper\platforms\MyApplication\app\build\intermediates\pre-dexed\debug\classes_95e0b326a388edfe5522c38109edde8bd36c60e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\.android\build-cache\3178017d17b8c75199343830efea10a6c0b8c5b5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\ASUS\Documents\Aplicativo\AdventureCamper\platforms\MyApplication\app\build\intermediates\pre-dexed\debug\classes_14b69fa8fdef206a0135a2d1033f58a8e36ad5bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\ASUS\Documents\Aplicativo\AdventureCamper\platforms\MyApplication\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_2c938fd6bb59cfc406a54b8b9b398d6059a05bb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\.android\build-cache\96d8624e982f7350a602002804c22e49e5377117\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\ASUS\Documents\Aplicativo\AdventureCamper\platforms\MyApplication\app\build\intermediates\pre-dexed\debug\classes_bc13bb720ebca445deda312b24d1d4dbac4be7d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\.android\build-cache\3d889bfb456800a4f2c5551055ffddc6e9148ce1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\ASUS\Documents\Aplicativo\AdventureCamper\platforms\MyApplication\app\build\intermediates\pre-dexed\debug\classes_a5390b3b0000507a3f8cbe36c2927935d281e4e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\.android\build-cache\f9e29bc703afd016fc1b7c3c98b907500773324b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\ASUS\Documents\Aplicativo\AdventureCamper\platforms\MyApplication\app\build\intermediates\pre-dexed\debug\classes_baf11eb08ac51ea4c9f243b64115cc6661641605.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\ASUS\Documents\Aplicativo\AdventureCamper\platforms\MyApplication\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_de611d40562a6180e401a7748045624cec1750f9.jar" />
+    </item>
+
+</items>
